@@ -1,1 +1,10 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Faia Fagundes
+    given-names: Gustavo
+    orcid: 
+title: "Separação de fontes harmônicas e percussivas via autoencoders convolucionais"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2022
